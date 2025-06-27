@@ -1,15 +1,15 @@
 {
-  "name": "幻凡ss-newsnow",
+  "name": "newsnow",
   "type": "module",
-  "version": "",
+  "version": "0.0.30",
   "private": true,
   "packageManager": "pnpm@10.5.2",
   "author": {
-    "url": "https://github.com/hfanss2/",
-    "email": "hfanss2@foxmail.com",
-    "name": "hfanss2"
+    "url": "https://github.com/ourongxing/",
+    "email": "orongxing@gmail.com",
+    "name": "ourongxing"
   },
-  "homepage": "https://github.com/hfanss2/newsnow",
+  "homepage": "https://github.com/ourongxing/newsnow",
   "scripts": {
     "dev": "npm run presource && vite dev",
     "build": "npm run presource && vite build",
