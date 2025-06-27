@@ -16,5 +16,17 @@
     "esModuleInterop": true,
     "isolatedModules": true,
     "skipLibCheck": true
+  },
+  "mcpServers": {
+    "newsnow": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "newsnow-mcp-server"
+      ],
+      "env": {
+        "BASE_URL": "https://newsnow.hfanss.com"
+      }
+    }
   }
 }
